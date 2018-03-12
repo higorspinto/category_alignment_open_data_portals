@@ -1,0 +1,1865 @@
+[
+    {
+        "city": "NYC",
+        "url": "https://opendata.cityofnewyork.us/data/",
+        "coord": "40.6643°N 73.9385°W",
+        "categorization": "Categories",
+        "platform": "Socrata",
+        "categories": [
+            "Business",
+            "City Government",
+            "Education",
+            "Environment",
+            "Health",
+            "Housing & Development",
+            "Public Safety",
+            "Recreation",
+            "Social Services",
+            "Transportation"
+        ]
+    },
+    {
+        "city": "Los Angeles",
+        "url": "https://data.lacity.org/browse",
+        "coord": "34.0194°N 118.4108°W",
+        "categorization": "Categories",
+        "platform": "Socrata",
+        "categories": [
+            "A Livable and Sustainable City",
+            "A Prosperous City",
+            "A Safe City",
+            "A Well Run City"
+        ]
+    },
+    {
+        "city": "Chicago ",
+        "url": "https://data.cityofchicago.org/browse",
+        "coord": "41.8376°N 87.6818°W",
+        "categorization": "Categories",
+        "platform": "Socrata",
+        "categories": [
+            "Administration & Finance",
+            "Buildings",
+            "Community",
+            "Education",
+            "Environment",
+            "Ethics",
+            "Events",
+            "FOIA",
+            "Facilities & Geo. Boundaries ",
+            "Health & Human Services",
+            "Historic Preservation",
+            "Parks & Recreation",
+            "Public Safety",
+            "Sanitation",
+            "Service Requests",
+            "Transportation"
+        ]
+    },
+    {
+        "city": "Houston",
+        "url": "http://data.ohouston.org/dataset",
+        "coord": "29.7805°N 95.3863°W",
+        "categorization": "Groups",
+        "platform": "CKAN",
+        "categories": [
+            "GIS",
+            "City of Houston Entreprise GIS",
+            "City of Houston Planning and Development Department",
+            "Government Boundaries",
+            "Public Works & Engineering",
+            "Planning & Development",
+            "Transportation",
+            "Permitting and Licensing",
+            "City of Houston Public Works and Engineering",
+            "Public Health & Safety",
+            "City of Houston Administration and Regulatory Affairs",
+            "Neighborhood Services",
+            "Finance",
+            "Environmental",
+            "Property",
+            "Hydrology",
+            "City of Houston Finance Department",
+            "Flood Hazard",
+            "Adresses Roads Cadastral",
+            "Houston Fire Department",
+            "Parking",
+            "Houston Police Department",
+            "City of Houston Health & Human Services Department",
+            "City of Houston Department of Neighborhood",
+            "City of Houston Solid Waste Mangement",
+            "Restaurants",
+            "Education and Schooling",
+            "Econonomic Development",
+            "City of Houston Parks and Recreation Department",
+            "City of Houston General Services Department",
+            "City of Houston City Secretary",
+            "Houston-Galveston Area Council",
+            "Demographics",
+            "City of Houston Office of Bussiness Opportunity",
+            "City of Houston Human Resources",
+            "City of Houston House & Community Development",
+            "City of Houston City Council",
+            "Houston Public Library",
+            "City of Houston Legal Department",
+            "City of Houston Information Technology Services",
+            "City of Houston Aviation / Houston Airport System"
+        ]
+    },
+    {
+        "city": "Phoenix",
+        "url": "https://www.phoenix.gov/opendata",
+        "coord": "33.5722°N 112.0880°W",
+        "categorization": "Categories",
+        "platform": "-",
+        "categories": [
+            "Census Data",
+            "CheckBook & Sales Tax",
+            "Energy & Sustainability",
+            "Neighborhood & Safety",
+            "Parks, Art & Culture",
+            "Property & Development",
+            "Staff Salaries",
+            "Transportation"
+        ]
+    },
+    {
+        "city": "Philadelphia",
+        "url": "https://www.opendataphilly.org/dataset",
+        "coord": "40.0094°N 75.1333°W",
+        "categorization": "Topics",
+        "platform": "CKAN",
+        "categories": [
+            "Transportation",
+            "Real State / Land Records",
+            "Environment",
+            "Health / Human Services",
+            "Planning / Zoning",
+            "Elections / Politics",
+            "Arts / Culture / History",
+            "Education",
+            "Public Safety",
+            "Parks / Recreation",
+            "Economy",
+            "Uncategorized",
+            "Food",
+            "Budget / Finance"
+        ]
+    },
+    {
+        "city": "San Antonio",
+        "url": "https://www.sanantonio.gov/SAPD/SAPD-Open-Data-Initiative",
+        "coord": "29.4724°N 98.5251°W",
+        "categorization": "-",
+        "platform": "-",
+        "categories": []
+    },
+    {
+        "city": "San Diego",
+        "url": "https://data.sandiego.gov/datasets/",
+        "coord": "32.8153°N 117.1350°W",
+        "categorization": "Categories",
+        "platform": "-",
+        "categories": [
+            "Economy & Community",
+            "City Infrastructure",
+            "City Management",
+            "Transportation",
+            "Public Safety",
+            "Energy & Environment",
+            "Culture & Recreation"
+        ]
+    },
+    {
+        "city": "Dallas",
+        "url": "https://www.dallasopendata.com/",
+        "coord": "32.7757°N 96.7967°W",
+        "categorization": "Categories",
+        "platform": "Socrata",
+        "categories": [
+            "Budget & Finance",
+            "City Infrastructure",
+            "City Services",
+            "Economic Development",
+            "Geography & Boundaries",
+            "Government",
+            "Public Safety"
+        ]
+    },
+    {
+        "city": "San Jose",
+        "url": "http://data.sanjoseca.gov/home",
+        "coord": "37.2969°N 121.8193°W",
+        "categorization": "Top Categories",
+        "platform": "Junar",
+        "categories": [
+            "Aiport",
+            "Auditor",
+            "City's Manager Office",
+            "City Wide",
+            "Department Of Transportation",
+            "Economic Development",
+            "Environmental Services",
+            "Finance",
+            "Fire",
+            "Housing",
+            "Human Resources",
+            "Independent Police Auditor",
+            "Information Technology",
+            "Library",
+            "Parks, Recreation & Neighborhood Services",
+            "Planning Building and Code Enforcement",
+            "Police",
+            "Public Works",
+            "Retirement"
+        ]
+    },
+    {
+        "city": "Austin",
+        "url": "https://data.austintexas.gov/",
+        "coord": "30.3072°N 97.7560°W",
+        "categorization": "Categories",
+        "platform": "Socrata",
+        "categories": [
+            "Bussiness",
+            "Capital Metro",
+            "Capital Planning",
+            "Education",
+            "Environmental",
+            "Financial",
+            "Fun",
+            "Geo Data",
+            "Government",
+            "Health",
+            "Neighborhood",
+            "Permitting",
+            "Public Safety",
+            "Utility",
+            "Workforce Development"
+        ]
+    },
+    {
+        "city": "Jacksonville",
+        "url": "https://data.jacksonms.gov/browse",
+        "coord": "30.3370°N 81.6613°W",
+        "categorization": "Categories",
+        "platform": "Socrata",
+        "categories": [
+            "Budget and Finance",
+            "City Services",
+            "Community Development",
+            "Economic Develpment",
+            "Government Accountability",
+            "Public Safety",
+            "Public Works ",
+            "Recreation and Parks",
+            "Schools and Education",
+            "Transportation and Transit"
+        ]
+    },
+    {
+        "city": "San Francisco",
+        "url": "https://data.sfgov.org/browse",
+        "coord": "37.7751°N 122.4193°W",
+        "categorization": "Categories",
+        "platform": "Socrata",
+        "categories": [
+            "City Infrastructure",
+            "City Management and Ethics",
+            "Culture and Recreation",
+            "Economy and Community",
+            "Energy and Environment",
+            "Geographic Locations and Boundaries",
+            "Health and Social Services",
+            "Housing and Buildings",
+            "Public Safety",
+            "Transportation"
+        ]
+    },
+    {
+        "city": "Columbus",
+        "url": "http://data-columbus.opendata.arcgis.com",
+        "coord": "39.9848°N 82.9850°W",
+        "categorization": "Categories",
+        "platform": "ArcGis",
+        "categories": [
+            "Business",
+            "Boundaries",
+            "Health",
+            "Infrastructure",
+            "Planning",
+            "Recreation & Parks",
+            "Safety",
+            "Schools",
+            "Transportation",
+            "All"
+        ]
+    },
+    {
+        "city": "Indianapolis",
+        "url": "http://data.indy.gov/",
+        "coord": "39.7767°N 86.1459°W",
+        "categorization": "Categories",
+        "platform": "-",
+        "categories": [
+            "Boundaries",
+            "Transportation",
+            "Recreation",
+            "Property",
+            "Disclose Indy",
+            "Political",
+            "Survey",
+            "Planning & Zonning"
+        ]
+    },
+    {
+        "city": "Fort Worth",
+        "url": "https://data.fortworthtexas.gov/",
+        "coord": "32.7795°N 97.3463°W",
+        "categorization": "Categories",
+        "platform": "Socrata",
+        "categories": [
+            "Business",
+            "City Government",
+            "Environment & Health",
+            "Financial",
+            "Property Data",
+            "Public Safety",
+            "Services & Recreation",
+            "Technology & Communications",
+            "Tranpostation"
+        ]
+    },
+    {
+        "city": "Charlotte",
+        "url": "http://clt-charlotte.opendata.arcgis.com/",
+        "coord": "35.2087°N 80.8307°W",
+        "categorization": "Categories",
+        "platform": "ArcGis",
+        "categories": [
+            "311 / Services",
+            "Arts & Education",
+            "Business & Budget",
+            "Community Safety",
+            "City Government",
+            "Neighborhoods & Housing",
+            "Transportation",
+            "Environment",
+            "Demographics",
+            "Planning & Zoning",
+            "Map Features",
+            "Historical Data"
+        ]
+    },
+    {
+        "city": "Seattle",
+        "url": "https://data.seattle.gov/browse",
+        "coord": "47.6205°N 122.3509°W",
+        "categorization": "Categories",
+        "platform": "Socrata",
+        "categories": [
+            "City Business",
+            "Community",
+            "Education",
+            "Finance",
+            "Land Base",
+            "Parks",
+            "Parks and Recreation",
+            "Permitting",
+            "Public Safety",
+            "Transportation"
+        ]
+    },
+    {
+        "city": "Denver",
+        "url": "https://www.denvergov.org/opendata/",
+        "coord": "39.7618°N 104.8806°W",
+        "categorization": "-",
+        "platform": "-",
+        "categories": []
+    },
+    {
+        "city": "Washington",
+        "url": "https://data.wa.gov/browse",
+        "coord": "38.9041°N 77.0171°W",
+        "categorization": "Categories",
+        "platform": "Socrata",
+        "categories": [
+            "Agriculture",
+            "Consumer Protection",
+            "Demographics",
+            "Economics",
+            "Education",
+            "Employment",
+            "Health",
+            "Labor",
+            "Natural Resources & Environment",
+            "Politics",
+            "Procurements and Contracts",
+            "Public Safety",
+            "Recreation",
+            "Transportation"
+        ]
+    },
+    {
+        "city": "Boston",
+        "url": "https://data.cityofboston.gov/",
+        "coord": "42.3320°N 71.0202°W",
+        "categorization": "Categories",
+        "platform": "Socrata",
+        "categories": [
+            "City Services",
+            "Facilites",
+            "Finance",
+            "Health",
+            "Permitting",
+            "Public Safety",
+            "Transportation"
+        ]
+    },
+    {
+        "city": "Detroit",
+        "url": "https://data.detroitmi.gov/browse",
+        "coord": "42.3830°N 83.1022°W",
+        "categorization": "Categories",
+        "platform": "Socrata",
+        "categories": [
+            "Business",
+            "Children & Families",
+            "Education",
+            "Fun",
+            "Government",
+            "Personal",
+            "Property & Parcels",
+            "Public Health",
+            "Public Safety",
+            "Transportation"
+        ]
+    },
+    {
+        "city": "Nashville",
+        "url": "https://data.nashville.gov/browse",
+        "coord": "36.1718°N 86.7850°W",
+        "categorization": "Categories",
+        "platform": "Socrata",
+        "categories": [
+            "Agriculture",
+            "Art",
+            "Beautification",
+            "Budget / Finance",
+            "Business, Development & Housing",
+            "Culture",
+            "Education",
+            "Elections",
+            "Emergency Management",
+            "Energy Usage",
+            "Environment",
+            "Fire ",
+            "Geneology",
+            "General Government",
+            "Health",
+            "History",
+            "Libraries",
+            "Licenses & Permits",
+            "Medical",
+            "Metro Government",
+            "Parks",
+            "Police",
+            "Public Safety",
+            "Public Services",
+            "Recycling/Conservation",
+            "Social Services",
+            "Transportation"
+        ]
+    },
+    {
+        "city": "Portland",
+        "url": "https://www.portlandoregon.gov/police/71673?",
+        "coord": "45.5370°N 122.6500°W",
+        "categorization": "-",
+        "platform": "-",
+        "categories": []
+    },
+    {
+        "city": "Oklahoma City",
+        "url": "https://data.okc.gov/portal/page/start",
+        "coord": "35.4671°N 97.5137°W",
+        "categorization": "Categories",
+        "platform": "-",
+        "categories": [
+            "General",
+            "GO Bond Projects (2017)",
+            "Planimetrics",
+            "Subdivision",
+            "Utilities",
+            "Census",
+            "Impact Fees",
+            "Public Safety",
+            "Survey Control Points",
+            "Zoning",
+            "Go Bond Projects (2007)",
+            "Parks and Trails",
+            "School",
+            "Transportation"
+        ]
+    },
+    {
+        "city": "Las Vegas",
+        "url": "https://opendata.lasvegasnevada.gov/browse",
+        "coord": "36.2277°N 115.2640°W",
+        "categorization": "Categories",
+        "platform": "Socrata",
+        "categories": [
+            "Arts and Culture",
+            "Building and Safety",
+            "Community Risk Reduction",
+            "Economic Development",
+            "Finance",
+            "General Information",
+            "Growing Economy",
+            "High Performing Government",
+            "Neighborhood Livability",
+            "Parks and Recreation",
+            "Planning",
+            "Public Safety",
+            "Public Works",
+            "Schools"
+        ]
+    },
+    {
+        "city": "Louisville",
+        "url": "https://data.louisvilleky.gov/search/type/dataset",
+        "coord": "38.1781°N 85.6667°W",
+        "categorization": "Categories",
+        "platform": "DKAN",
+        "categories": []
+    },
+    {
+        "city": "Baltimore",
+        "url": "https://data.baltimorecity.gov/browse",
+        "coord": "39.3002°N 76.6105°W",
+        "categorization": "Categories",
+        "platform": "Socrata",
+        "categories": [
+            "City Government",
+            "City Services",
+            "Crime",
+            "Culture & Arts",
+            "Financial",
+            "Geographic",
+            "Health",
+            "Housing & Development",
+            "Neighborhoods",
+            "Public Safety",
+            "Public Works",
+            "Transportation"
+        ]
+    },
+    {
+        "city": "Tucson",
+        "url": "https://data.tucsonaz.gov/",
+        "coord": "32.1543°N 110.8711°W",
+        "categorization": "-",
+        "platform": "-",
+        "categories": []
+    },
+    {
+        "city": "Sacramento",
+        "url": "http://data.cityofsacramento.org/",
+        "coord": "38.5666°N 121.4686°W",
+        "categorization": "Categories",
+        "platform": "ArcGis",
+        "categories": [
+            "Animal Care",
+            "Budget & Finance",
+            "Disclosure & Ethics",
+            "Economy & Community",
+            "Locations & Mapping",
+            "Parks & Recreation",
+            "Permits & Planning",
+            "Public Safety",
+            "Service Requests",
+            "Transportation & Infrastructure"
+        ]
+    },
+    {
+        "city": "Mesa",
+        "url": "http://open.mesaaz.gov/home",
+        "coord": "33.4019°N 111.7174°W",
+        "categorization": "-",
+        "platform": "Junar",
+        "categories": [
+            "Energy & Utilities",
+            "Permits & Licences",
+            "Financials",
+            "Recreation & Culture",
+            "Zoning & Property",
+            "Planes, Trains & Automobiles",
+            "Neighborhoods",
+            "Public Safety"
+        ]
+    },
+    {
+        "city": "Kansas City",
+        "url": "https://data.kcmo.org",
+        "coord": "39.1252°N 94.5511°W",
+        "categorization": "Categories",
+        "platform": "Socrata",
+        "categories": [
+            "311",
+            "Airport",
+            "Annual Audit Plan & Reports",
+            "Area Plans",
+            "Auction",
+            "Audit Highlights",
+            "Audits",
+            "Audits and Memos",
+            "Brownfields",
+            "Budget",
+            "Business",
+            "Census",
+            "Climate Protection Steering Com",
+            "Code Interpretations",
+            "Construction",
+            "Crime",
+            "Development",
+            "Development Review",
+            "Emergency",
+            "Environmental Management Commission",
+            "FY 2009 - 2010",
+            "FY 2010 - 2011",
+            "FY 2011 - 2012",
+            "FY 2012 - 2013",
+            "FY 2013 - 2014",
+            "FY 2014 - 2015",
+            "FY 2015 - 2016",
+            "FY 2016 - 2017",
+            "Fees",
+            "Finance",
+            "Focus",
+            "Food",
+            "Forecasts",
+            "Forms",
+            "Forms and Applications",
+            "GIS",
+            "Government",
+            "Health",
+            "Historic Preservation",
+            "Housing",
+            "Human Relations",
+            "Human Resources",
+            "Information Bulletins",
+            "Innovation",
+            "Investor Relations",
+            "KC Bizcare",
+            "KC City Energy Project",
+            "KCI Terminal Advisory",
+            "Land Development",
+            "Land Use",
+            "Legislation",
+            "Legislative Info",
+            "Monthly Status Reports",
+            "Municipal Court",
+            "Neighborhoods",
+            "New Tax Forms",
+            "Old Tax Forms",
+            "Peer Review",
+            "Property",
+            "Regulated Industries",
+            "Regulatory Codes",
+            "Safety",
+            "Scope Statement",
+            "Streetcar",
+            "Sustainability",
+            "Taxes",
+            "Traffic",
+            "Traffic Sign Changes",
+            "Transportation",
+            "Workforce"
+        ]
+    },
+    {
+        "city": "Atlanta",
+        "url": "https://atlanta.demo.socrata.com",
+        "coord": "33.7629°N 84.4227°W",
+        "categorization": "-",
+        "platform": "Socrata",
+        "categories": []
+    },
+    {
+        "city": "Long Beach",
+        "url": "http://datalb.longbeach.gov/",
+        "coord": "33.8091°N 118.1553°W",
+        "categorization": "Categories",
+        "platform": "ArcGis",
+        "categories": [
+            "Business",
+            "Boundaries",
+            "Health",
+            "Infrastructure",
+            "Planning",
+            "Recreation & Parks",
+            "Safety",
+            "Schools",
+            "Transportation",
+            "All"
+        ]
+    },
+    {
+        "city": "Colorado Springs",
+        "url": "http://coloradodata-statesales.opendata.arcgis.com",
+        "coord": "38.8673°N 104.7607°W",
+        "categorization": "Categories",
+        "platform": "ArcGis",
+        "categories": [
+            "Economy and Community",
+            "City Management and Ethics",
+            "Transportation",
+            "Public Safety",
+            "Health and Social Services",
+            "Geographic Locations and Boundaries",
+            "Energy and Environment",
+            "Housing and Buildings",
+            "City Infrastructure",
+            "Culture and Recreation"
+        ]
+    },
+    {
+        "city": "Raleigh",
+        "url": "https://data.raleighnc.gov/browse",
+        "coord": "35.8302°N 78.6414°W",
+        "categorization": "Categories",
+        "platform": "Socrata",
+        "categories": [
+            "Alt. Fuels",
+            "Budget and Management Services",
+            "Business",
+            "Downtown",
+            "Fire",
+            "Government",
+            "Government Buldings and Structures",
+            "Greenways",
+            "Housing",
+            "Infrastructure",
+            "Neighborhoods",
+            "Parking",
+            "People",
+            "Permits",
+            "Police",
+            "Public Safety",
+            "Sustainability",
+            "Transit",
+            "Urban Planning",
+            "Wake County EMS"
+        ]
+    },
+    {
+        "city": "Miami (Miami Dade)",
+        "url": "https://opendata.miamidade.gov/browse",
+        "coord": "25.7752°N 80.2086°W",
+        "categorization": "Categories",
+        "platform": "Socrata",
+        "categories": [
+            "311",
+            "Animals",
+            "Building",
+            "Corrections",
+            "Electoral",
+            "Environment",
+            "Infrastructure",
+            "Procurement",
+            "Transportation",
+            "Waste"
+        ]
+    },
+    {
+        "city": "Virginia Beach",
+        "url": "https://data.vbgov.com/browse",
+        "coord": "36.7793°N 76.0240°W",
+        "categorization": "Categories",
+        "platform": "Socrata",
+        "categories": [
+            "Business",
+            "FOIA",
+            "Finance / Government",
+            "Neighborhoods / Environment",
+            "Public Safety"
+        ]
+    },
+    {
+        "city": "Omaha (Dougla County)",
+        "url": "http://data-dogis.opendata.arcgis.com",
+        "coord": "41.2647°N 96.0419°W",
+        "categorization": "Categories",
+        "platform": "ArcGis",
+        "categories": [
+            "Planning",
+            "Transportation",
+            "Boundaries",
+            "Elevation",
+            "Points of Interest"
+        ]
+    },
+    {
+        "city": "Oakland",
+        "url": "https://data.oaklandnet.com/browse",
+        "coord": "37.7699°N 122.2256°W",
+        "categorization": "Categories",
+        "platform": "Socrata",
+        "categories": [
+            "CityGovernment",
+            "Economic Develpment",
+            "Education",
+            "Environmental",
+            "Financial",
+            "Infrastructure",
+            "Life Enrichment",
+            "Property",
+            "Public Safety",
+            "Public Services"
+        ]
+    },
+    {
+        "city": "Minneapolis",
+        "url": "http://opendata.minneapolismn.gov/",
+        "coord": "44.9633°N 93.2683°W",
+        "categorization": "Categories",
+        "platform": "ArcGis",
+        "categories": [
+            "All Layers",
+            "Public Safety",
+            "Administrative Boundaries",
+            "Planning",
+            "City Assessor",
+            "Regulatory Services",
+            "Snow Emergency",
+            "Business Licensing",
+            "311"
+        ]
+    },
+    {
+        "city": "Tulsa",
+        "url": "http://opengis.cityoftulsa.org/",
+        "coord": "36.1279°N 95.9023°W",
+        "categorization": "-",
+        "platform": "ArcGis",
+        "categories": []
+    },
+    {
+        "city": "New Orleans",
+        "url": "https://data.nola.gov/",
+        "coord": "30.0686°N 89.9390°W",
+        "categorization": "Categories",
+        "platform": "Socrata",
+        "categories": [
+            "Arts, Culture, History",
+            "City Administration",
+            "City Finance and Budget",
+            "Customer Service",
+            "Demographics",
+            "Economy and Workforce",
+            "Elections, Politics",
+            "Environment",
+            "Geographic Base Layers",
+            "Health, Education, and Social Services",
+            "Housing, Land Use, and Blight",
+            "Parks, Parkways",
+            "Planning, Zoning",
+            "Public Safety and Preparedness",
+            "Real Estate, Land Records",
+            "Recreation and Culture",
+            "Transportation and Infrastructure"
+        ]
+    },
+    {
+        "city": "Wichita",
+        "url": "http://opendata.wichita.gov/",
+        "coord": "37.6907°N 97.3427°W",
+        "categorization": "Categories",
+        "platform": "ArcGis",
+        "categories": [
+            "Utilities",
+            "Boundaries",
+            "Business",
+            "Community Safety",
+            "Education",
+            "Environment and Health",
+            "Community Services",
+            "Transportation"
+        ]
+    },
+    {
+        "city": "Tampa",
+        "url": "http://city-tampa.opendata.arcgis.com/",
+        "coord": "27.9701°N 82.4797°W",
+        "categorization": "Categories",
+        "platform": "ArcGis",
+        "categories": [
+            "Location",
+            "Boundaries",
+            "Streets and Addresses",
+            "Planning",
+            "Utilities",
+            "Law Enforcment",
+            "Fire",
+            "Cadastral"
+        ]
+    },
+    {
+        "city": "Aurora",
+        "url": "http://data-auroraco.opendata.arcgis.com/",
+        "coord": "39.7082°N 104.8235°W",
+        "categorization": "Categories",
+        "platform": "ArcGis",
+        "categories": [
+            "Business",
+            "Boundaries",
+            "Community Services",
+            "Demographics",
+            "Education",
+            "Planimetrics",
+            "Property and Land",
+            "Water"
+        ]
+    },
+    {
+        "city": "Honolulu",
+        "url": "https://data.honolulu.gov/browse",
+        "coord": "21.3259°N 157.8453°W",
+        "categorization": "Categories",
+        "platform": "Socrata",
+        "categories": [
+            "Business",
+            "Finance",
+            "Location",
+            "Public Safety",
+            "Recreation",
+            "Transportation"
+        ]
+    },
+    {
+        "city": "Anaheim",
+        "url": "http://data-anaheim.opendata.arcgis.com/",
+        "coord": "33.8555°N 117.7601°W",
+        "categorization": "Categories",
+        "platform": "ArcGis",
+        "categories": [
+            "Boundaries",
+            "Base Map Data",
+            "Public Safety",
+            "Transportation",
+            "Public Works",
+            "Planning",
+            "Education",
+            "Recreation",
+            "Environmental",
+            "Licenses and Permits"
+        ]
+    },
+    {
+        "city": "Santa Ana",
+        "url": "http://opendata-santa-ana.opendata.arcgis.com/",
+        "coord": "33.7365°N 117.8826°W",
+        "categorization": "-",
+        "platform": "ArcGis",
+        "categories": []
+    },
+    {
+        "city": "Riverside",
+        "url": "https://data.countyofriverside.us/browse",
+        "coord": "33.9381°N 117.3932°W",
+        "categorization": "Categories",
+        "platform": "Socrata",
+        "categories": [
+            "Administrative and Fiscal Services",
+            "Culture and Recreation",
+            "Economy and Community",
+            "Geographic Locations and Boundaries",
+            "Health and Social Services",
+            "Land Use and Environment",
+            "Public Safety and Emergency Management",
+            "RCData Internal",
+            "RIVCOconnect BroadBand",
+            "Transportation"
+        ]
+    },
+    {
+        "city": "Lexington",
+        "url": "https://data.lexingtonky.gov/dataset",
+        "coord": "38.0402°N 84.4584°W",
+        "categorization": "Groups",
+        "platform": "CKAN",
+        "categories": [
+            "Historical",
+            "Community",
+            "Development",
+            "Environmental",
+            "Miscellaneous",
+            "Transportation"
+        ]
+    },
+    {
+        "city": "St. Louis",
+        "url": "https://brigades.opendatanetwork.com/brigade?brigade=Open%20Data%20STL",
+        "coord": "38.6357°N 90.2446°W",
+        "categorization": "Categories",
+        "platform": "Socrata",
+        "categories": [
+            "Transparency",
+            "Neighborhoods",
+            "Inequality",
+            "Environment",
+            "Youth",
+            "Citizens As Field Agents"
+        ]
+    },
+    {
+        "city": "Pittsburgh",
+        "url": "http://pittsburghpa.gov/dcp/gis/gis-data/index.html",
+        "coord": "40.4398°N 79.9766°W",
+        "categorization": "Categories",
+        "platform": "ArcGis",
+        "categories": [
+            "Art & Culture",
+            "Business & Economy",
+            "Civic Vitality & Governance",
+            "Demographics",
+            "Education",
+            "Energy",
+            "Environment",
+            "Events",
+            "Geography",
+            "Health",
+            "Housing & Property",
+            "Human & Social Services",
+            "Public Safety & Justice",
+            "Recreation",
+            "Transportation",
+            "Other"
+        ]
+    },
+    {
+        "city": "Saint Paul",
+        "url": "https://information.stpaul.gov/",
+        "coord": "44.9489°N 93.1039°W",
+        "categorization": "Categories",
+        "platform": "Socrata",
+        "categories": [
+            "Buildings, Housing & Economic Development",
+            "Census",
+            "City Administration",
+            "City Infrastructure",
+            "Permits & Licensing",
+            "Public Facilities & Services",
+            "Public Safety"
+        ]
+    },
+    {
+        "city": "Cincinnati",
+        "url": "https://data.cincinnati-oh.gov/",
+        "coord": "39.1399°N 84.5064°W",
+        "categorization": "Categories",
+        "platform": "Socrata",
+        "categories": [
+            "Fiscal Sustainability & Strategic Investment",
+            "Growing Economy",
+            "Innovative Government",
+            "Safer Streets",
+            "Thriving Healthy and Neighborhoods"
+        ]
+    },
+    {
+        "city": "Anchorage",
+        "url": "https://data.muni.org/browse",
+        "coord": "61.2176°N 149.8953°W",
+        "categorization": "Categories",
+        "platform": "Socrata",
+        "categories": [
+            "Housing and Homelessness",
+            "Other",
+            "Public Health",
+            "Public Safety",
+            "Street Maintenance"
+        ]
+    },
+    {
+        "city": "Henderson",
+        "url": "https://opendata.cityofhenderson.com/browse",
+        "coord": "36.0122°N 115.0375°W",
+        "categorization": "Categories",
+        "platform": "Socrata",
+        "categories": [
+            "Building Permits",
+            "Business License",
+            "Crime Data",
+            "Economic / Demographic",
+            "Parks & Trails"
+        ]
+    },
+    {
+        "city": "Greensboro",
+        "url": "https://data.greensboro-nc.gov/",
+        "coord": "36.0965°N 79.8271°W",
+        "categorization": "Categories",
+        "platform": "Socrata",
+        "categories": [
+            "Business and Financial",
+            "Government",
+            "Housing and Development",
+            "Public Safety",
+            "Housing and Development"
+        ]
+    },
+    {
+        "city": "Plano",
+        "url": "https://dashboard.plano.gov/",
+        "coord": "33.0508°N 96.7479°W",
+        "categorization": "Categories",
+        "platform": "Socrata",
+        "categories": [
+            "Business",
+            "Education",
+            "Finance",
+            "Government",
+            "Health"
+        ]
+    },
+    {
+        "city": "Newark",
+        "url": "http://data.ci.newark.nj.us/dataset",
+        "coord": "40.7242°N 74.1726°W",
+        "categorization": "Groups",
+        "platform": "CKAN",
+        "categories": [
+            "Infrastructure",
+            "Government",
+            "Demographics",
+            "Business",
+            "Education",
+            "Public Safety"
+        ]
+    },
+    {
+        "city": "Orlando",
+        "url": "https://data.cityoforlando.net/browse",
+        "coord": "28.4159°N 81.2988°W",
+        "categorization": "Categories",
+        "platform": "Socrata",
+        "categories": [
+            "Citywide",
+            "Economic Development",
+            "Government / General",
+            "Public Safety",
+            "Public Works"
+        ]
+    },
+    {
+        "city": "Chula Vista",
+        "url": "http://chulavista-cvgis.opendata.arcgis.com/",
+        "coord": "32.6277°N 117.0152°W",
+        "categorization": "Categories",
+        "platform": "ArcGis",
+        "categories": [
+            "Administrative",
+            "Environmental",
+            "Facilities",
+            "Land Records",
+            "Transportation"
+        ]
+    },
+    {
+        "city": "Jersey City",
+        "url": "http://data.jerseycitynj.gov",
+        "coord": "40.7114°N 74.0648°W",
+        "categorization": "Groups",
+        "platform": "CKAN",
+        "categories": [
+            "Infrastructure",
+            "Maps",
+            "Boards and Commisions of H.E.D.C.",
+            "Municipal Services",
+            "Housing",
+            "Transportation",
+            "Safety",
+            "Environment",
+            "Economy",
+            "Other / Unclassified",
+            "Demographics",
+            "Education"
+        ]
+    },
+    {
+        "city": "Durham",
+        "url": "https://opendurham.nc.gov/pages/home/",
+        "coord": "35.9810°N 78.9056°W",
+        "categorization": "Categories",
+        "platform": "OpenDataSoft",
+        "categories": [
+            "Transport, Movements",
+            "Services, Social",
+            "Administration, Govenment, Public Finances, Tax Office",
+            "Economy, Business, SME, Economic Development, Employemnt",
+            "Education, Training, Research, Teaching",
+            "Health",
+            "Justice, Safety, Police, Crime",
+            "Spatial Planning, Equipment",
+            "Sports, Leisure",
+            "Environment"
+        ]
+    },
+    {
+        "city": "Laredo",
+        "url": "http://laredo-txlocalgov.opendata.arcgis.com/",
+        "coord": "27.5477°N 99.4869°W",
+        "categorization": "Categories",
+        "platform": "ArcGis",
+        "categories": [
+            "Natural Resources",
+            "Boundaries",
+            "Business",
+            "Community Safety",
+            "Education",
+            "Health",
+            "Housing",
+            "Transportation"
+        ]
+    },
+    {
+        "city": "Madison",
+        "url": "https://data.cityofmadison.com/",
+        "coord": "43.0878°N 89.4301°W",
+        "categorization": "Categories",
+        "platform": "ArcGis",
+        "categories": [
+            "City Facilities",
+            "Elections",
+            "Events",
+            "Fire",
+            "Library",
+            "Metro Transportation",
+            "Parks & Recreation",
+            "Police",
+            "Polling Places",
+            "Property",
+            "Public Safety",
+            "Service Requests"
+        ]
+    },
+    {
+        "city": "Scottsdale",
+        "url": "http://data-cos-gis.opendata.arcgis.com/",
+        "coord": "33.6687°N 111.8237°W",
+        "categorization": "Categories",
+        "platform": "ArcGis",
+        "categories": [
+            "Facilities",
+            "Land Base",
+            "Planning",
+            "Recreation"
+        ]
+    },
+    {
+        "city": "Glendale",
+        "url": "http://data-cog-gis.opendata.arcgis.com/",
+        "coord": "33.5331°N 112.1899°W",
+        "categorization": "-",
+        "platform": "ArcGis",
+        "categories": []
+    },
+    {
+        "city": "Reno",
+        "url": "http://opendatareno.org/dataset",
+        "coord": "39.4745°N 119.7765°W",
+        "categorization": "-",
+        "platform": "CKAN",
+        "categories": []
+    },
+    {
+        "city": "Norfolk",
+        "url": "http://data-orf.opendata.arcgis.com/",
+        "coord": "36.9230°N 76.2446°W",
+        "categorization": "Categories",
+        "platform": "ArcGis",
+        "categories": [
+            "Arts and Education",
+            "Schools",
+            "Elementary School Boundaries",
+            "Middle School Boundaries",
+            "High School Boundaries",
+            "Libraries",
+            "Electoral",
+            "Electoral Polling Locations",
+            "Electoral Precincts",
+            "Wards",
+            "Super Wards",
+            "Environmental",
+            "Breakwater",
+            "Category 1 Storm Surge",
+            "Category 2 Storm Surge",
+            "Category 3 Storm Surge",
+            "Category 4 Storm Surge",
+            "Water",
+            "Wetlands",
+            "Municipal",
+            "City Limit",
+            "City Facilities",
+            "ZIP Code",
+            "Neighborhoods",
+            "Civic Leagues",
+            "Neighborhood Service Areas",
+            "Parks and Recreation",
+            "Beach Access",
+            "Boat Ramps",
+            "Elizabeth River Trail",
+            "Parks",
+            "Recreation Centers",
+            "Planning and Zoning",
+            "AICUZ - Accidental Potential Zones",
+            "AICUZ - Noise Levels",
+            "CBPA",
+            "Conditional Zoning",
+            "Economic Districts",
+            "Flood Zone",
+            "Future Land Use",
+            "HUBZones",
+            "Limit of Moderate Wave Action-LiMWA",
+            "Planning Districts",
+            "Special Exceptions",
+            "Zoning",
+            "Property Information",
+            "Addresses",
+            "Building Footprints",
+            "Parcels",
+            "Public Safety",
+            "Fire Demand Zones",
+            "Fire Station",
+            "Police Car Districts",
+            "Police Facilities",
+            "Police Precincts",
+            "Transportation",
+            "Light Rail Route",
+            "Street Centerline"
+        ]
+    },
+    {
+        "city": "Chesapeake",
+        "url": "http://public-chesva.opendata.arcgis.com/",
+        "coord": "36.6794°N 76.3018°W",
+        "categorization": "Categories",
+        "platform": "ArcGis",
+        "categories": [
+            "Boundaries",
+            "Environmental",
+            "Adresses",
+            "Civic",
+            "Transportation",
+            "Rasters",
+            "All Content"
+        ]
+    },
+    {
+        "city": "Fremont",
+        "url": "http://egis-cofgis.opendata.arcgis.com/",
+        "coord": "37.4944°N 121.9411°W",
+        "categorization": "Layers",
+        "platform": "ArcGis",
+        "categories": [
+            "Economic Development",
+            "Engineering",
+            "Landmark",
+            "Planning",
+            "Transportation",
+            "All Layers"
+        ]
+    },
+    {
+        "city": "Baton Rouge",
+        "url": "https://data.brla.gov/browse",
+        "coord": "30.4485°N 91.1259°W",
+        "categorization": "Categories",
+        "platform": "Socrata",
+        "categories": [
+            "Business and Financial",
+            "Culture and Recreation",
+            "Government",
+            "Housing and Development",
+            "Public Safety",
+            "Transportation and Infrastructure"
+        ]
+    },
+    {
+        "city": "Richmond",
+        "url": "https://data.richmondgov.com/browse",
+        "coord": "37.5314°N 77.4760°W",
+        "categorization": "Categories",
+        "platform": "Socrata",
+        "categories": [
+            "Community Safety and Well-Being",
+            "Economic Growth",
+            "Education and Workforce Development",
+            "Sustainability and Natural Environment",
+            "Transportation",
+            "Unique and Inclusive Neighborhoods",
+            "Well-Managed Government"
+        ]
+    },
+    {
+        "city": "Boise",
+        "url": "http://opendata.cityofboise.org/",
+        "coord": "43.5985°N 116.2311°W",
+        "categorization": "Categories",
+        "platform": "ArcGis",
+        "categories": [
+            "Parks & Rec",
+            "Utilities",
+            "Parking"
+        ]
+    },
+    {
+        "city": "San Bernardino",
+        "url": "http://open.sbcounty.gov/datasets",
+        "coord": "34.1393°N 117.2953°W",
+        "categorization": "Categories",
+        "platform": "ArcGis",
+        "categories": [
+            "Boundaries",
+            "Demographics",
+            "Property",
+            "Public Reporting",
+            "Transportation",
+            "Zoning"
+        ]
+    },
+    {
+        "city": "Spokane",
+        "url": "http://data-spokane.opendata.arcgis.com/",
+        "coord": "47.6669°N 117.4333°W",
+        "categorization": "Categories",
+        "platform": "ArcGis",
+        "categories": [
+            "Boundaries",
+            "Demographics",
+            "Environment",
+            "Building and Planning",
+            "Public Safety",
+            "Reference Data",
+            "Public Works",
+            "Transportation"
+        ]
+    },
+    {
+        "city": "Birmingham",
+        "url": "https://data.birminghamal.gov",
+        "coord": "33.5274°N 86.7990°W",
+        "categorization": "Groups",
+        "platform": "CKAN",
+        "categories": [
+            "Fire",
+            "Finance",
+            "Police",
+            "Planning Engineering",
+            "Economic Development",
+            "Youth Services",
+            "Municipal Courts",
+            "Community Development",
+            "Birmingham"
+        ]
+    },
+    {
+        "city": "Tacoma",
+        "url": "https://data.cityoftacoma.org/browse",
+        "coord": "47.2522°N 122.4598°W",
+        "categorization": "Categories",
+        "platform": "Socrata",
+        "categories": [
+            "Business",
+            "City Administration and Finance",
+            "Community and Economic Development",
+            "Environment and Sustainability",
+            "Equity",
+            "Human Services",
+            "Infrastructure and Transportation",
+            "Neighborhoods",
+            "Public Safety"
+        ]
+    },
+    {
+        "city": "Oxnard",
+        "url": "https://data.oxnard.org/",
+        "coord": "34.2023°N 119.2046°W",
+        "categorization": "Categories",
+        "platform": "Socrata",
+        "categories": [
+            "Archive",
+            "Building Permits",
+            "Financial Data and Reports",
+            "Local Business Data"
+        ]
+    },
+    {
+        "city": "Fayetteville",
+        "url": "http://data.fayettevillenc.gov/",
+        "coord": "35.0828°N 78.9735°W",
+        "categorization": "Categories",
+        "platform": "ArcGis",
+        "categories": [
+            "All Data Sets",
+            "Business, Budget & Financials",
+            "Parks & Recreation",
+            "Calls for Service",
+            "Planning & Zoning",
+            "Police",
+            "Fire",
+            "Transportation"
+        ]
+    },
+    {
+        "city": "Montgomery",
+        "url": "https://data.montgomeryal.gov",
+        "coord": "32.3472°N 86.2661°W",
+        "categorization": "Categories",
+        "platform": "Socrata",
+        "categories": [
+            "311",
+            "Development",
+            "Paving",
+            "Permits",
+            "Property Maintenance",
+            "Public Safety",
+            "Public Works"
+        ]
+    },
+    {
+        "city": "Little Rock",
+        "url": "https://data.littlerock.gov/",
+        "coord": "34.7254°N 92.3586°W",
+        "categorization": "Categories",
+        "platform": "Socrata",
+        "categories": [
+            "311",
+            "Community Services",
+            "Government",
+            "Parks",
+            "Public Safety"
+        ]
+    },
+    {
+        "city": "Akron (County of Summit)",
+        "url": "http://data-summitgis.opendata.arcgis.com/",
+        "coord": "41.0805°N 81.5214°W",
+        "categorization": "Categories",
+        "platform": "ArcGis",
+        "categories": [
+            "Land Records",
+            "Boundaries",
+            "Environmental",
+            "Sewer",
+            "Engineer",
+            "Development",
+            "Transportation",
+            "Topography"
+        ]
+    },
+    {
+        "city": "Grand Rapids",
+        "url": "http://data.grcity.us/dataset",
+        "coord": "42.9612°N 85.6556°W",
+        "categorization": "-",
+        "platform": "CKAN",
+        "categories": []
+    },
+    {
+        "city": "Salt Lake City",
+        "url": "http://gis-slcgov.opendata.arcgis.com/",
+        "coord": "40.7769°N 111.9310°W",
+        "categorization": "Categories",
+        "platform": "ArcGis",
+        "categories": [
+            "Administrative",
+            "Atlas Plats",
+            "Base Map",
+            "Planning and Zoning",
+            "Parks & Recreation"
+        ]
+    },
+    {
+        "city": "Huntsville",
+        "url": "https://www.huntsvilleal.gov/development/building-construction/gis/data-depot/open-data/",
+        "coord": "34.6990°N 86.6730°W",
+        "categorization": "Categories",
+        "platform": "ArcGis",
+        "categories": [
+            "All Open Data",
+            "Boundaries",
+            "Census Data",
+            "Flood",
+            "Grids",
+            "Hydrography",
+            "Map Indexes",
+            "Planning",
+            "Parks and Recreation",
+            "Points of Interest",
+            "Public Safety",
+            "Schools",
+            "Stormwater",
+            "Transportation",
+            "Miscellaneous Data"
+        ]
+    },
+    {
+        "city": "Mobile",
+        "url": "http://maps.cityofmobile.org/gis/gisdata_datacatalog.aspx",
+        "coord": "30.6684°N 88.1002°W",
+        "categorization": "Categories",
+        "platform": "-",
+        "categories": []
+    },
+    {
+        "city": "Tallahassee",
+        "url": "http://talgov-tlcgis.opendata.arcgis.com/",
+        "coord": "30.4551°N 84.2534°W",
+        "categorization": "Categories",
+        "platform": "ArcGis",
+        "categories": [
+            "All Data Sets",
+            "Business & Budget",
+            "Infrastructure",
+            "Land Use & Permits",
+            "Public Safety",
+            "Service Requests",
+            "Transportation",
+            "TLCGis Open Data"
+        ]
+    },
+    {
+        "city": "Knoxville",
+        "url": "http://www.knoxvilletn.gov/cms/One.aspx?portalId=109562&pageId=7240314",
+        "coord": "35.9707°N 83.9493°W",
+        "categorization": "Avalilable Data",
+        "platform": "-",
+        "categories": [
+            "311 Performance Measures",
+            "Blight Data Dashboard",
+            "Budget",
+            "City Council Agenda/Minutes",
+            "Crime Map",
+            "East Tennessee Index",
+            "Homemaker Program",
+            "KGIS Maps",
+            "KnoxHMIS",
+            "NPDES Reports",
+            "Police Advisory and Review Committee",
+            "Police Department",
+            "Property Tax Database - City",
+            "Property Tax Database - County",
+            "Public Improvement Projects",
+            "Rainfall Data",
+            "TIFs and PILOTs",
+            "Tree Inventory"
+        ]
+    },
+    {
+        "city": "Worcester",
+        "url": "http://gisdata.worcesterma.gov/",
+        "coord": "42.2695°N 71.8078°W",
+        "categorization": "-",
+        "platform": "-",
+        "categories": []
+    },
+    {
+        "city": "Tempe",
+        "url": "http://data-tempegov.opendata.arcgis.com/",
+        "coord": "33.3884°N 111.9318°W",
+        "categorization": "Categories",
+        "platform": "ArcGis",
+        "categories": [
+            "Accessibility",
+            "Transportation",
+            "Neighborhoods & Historic Preservation",
+            "Land Use",
+            "Public Safety",
+            "All Datasets"
+        ]
+    },
+    {
+        "city": "Santa Clarita",
+        "url": "http://www.santa-clarita.com/residents/open-data-portal",
+        "coord": "34.4030°N 118.5042°W",
+        "categorization": "Categories",
+        "platform": "OpenGov",
+        "categories": [
+            "Annual Budget",
+            "Employee Effectiveness",
+            "Time To Respond",
+            "Employee Courtesy",
+            "Expectations Met",
+            "Election Data at a Glance",
+            "Election Data by Precinct",
+            "Election Results by Candidate",
+            "Film Permits Issued & Days Of Filming",
+            "Film Revenue",
+            "Hotel Occupancy",
+            "Number of Businesses",
+            "Number of Jobs",
+            "Unemployment Rate",
+            "Library Circulation",
+            "Transit Ridership",
+            "Graffiti Cleanup",
+            "DFYinSCV Membership",
+            "LMD Water Usage"
+        ]
+    },
+    {
+        "city": "Cape Coral",
+        "url": "http://capecoral-capegis.opendata.arcgis.com/",
+        "coord": "26.6432°N 81.9974°W",
+        "categorization": "Categories",
+        "platform": "ArcGis",
+        "categories": [
+            "311 Call Center",
+            "Business & Budget",
+            "Planning & Zoning",
+            "Public Works",
+            "Gis",
+            "Fire",
+            "Brownse All Data"
+        ]
+    },
+    {
+        "city": "Providence",
+        "url": "https://data.providenceri.gov/",
+        "coord": "41.8231°N 71.4188°W",
+        "categorization": "Categories",
+        "platform": "Socrata",
+        "categories": [
+            "Economy / Finance",
+            "Neighborhoods",
+            "Public Safety",
+            "Reference"
+        ]
+    },
+    {
+        "city": "Chattanooga",
+        "url": "https://data.chattlibrary.org/browse?Organization_Name=City+of+Chattanooga",
+        "coord": "35.0660°N 85.2484°W",
+        "categorization": "Categories",
+        "platform": "Socrata",
+        "categories": [
+            "Buildings & Trails",
+            "Economy",
+            "Education",
+            "Government",
+            "Public Health",
+            "Public Safety",
+            "Recreation",
+            "Social Services",
+            "Transportation"
+        ]
+    },
+    {
+        "city": "Santa Rosa",
+        "url": "https://data.srcity.org/",
+        "coord": "38.4468°N 122.7061°W",
+        "categorization": "Categories",
+        "platform": "Socrata",
+        "categories": [
+            "Community Services",
+            "Development",
+            "Economy",
+            "Finances",
+            "Fire",
+            "Government",
+            "HCS Department",
+            "HR Department",
+            "Housing",
+            "IT Department",
+            "Internal Datasets",
+            "Office of Community Engagement",
+            "Police",
+            "Public Safety",
+            "Recreation and Culture",
+            "Transportation",
+            "Water Department"
+        ]
+    },
+    {
+        "city": "Sioux Falls",
+        "url": "http://gisopendata.siouxfalls.org/",
+        "coord": "43.5383°N 96.7320°W",
+        "categorization": "Categories",
+        "platform": "ArcGis",
+        "categories": [
+            "Community",
+            "Education",
+            "Imagery",
+            "Infrastructure",
+            "Parks",
+            "Property",
+            "Safety",
+            "Transportation"
+        ]
+    },
+    {
+        "city": "McKinney",
+        "url": "http://mckinneygis-mck.opendata.arcgis.com/",
+        "coord": "33.1985°N 96.6680°W",
+        "categorization": "Categories",
+        "platform": "ArcGis",
+        "categories": [
+            "Planning & Zoning",
+            "Addresses & Boundaries",
+            "Schools",
+            "Engineering",
+            "Public Safety",
+            "Parks & Recreation",
+            "Transportation",
+            "All Other Data"
+        ]
+    },
+    {
+        "city": "ElkGrove",
+        "url": "http://gisdata.elkgrovecity.org/",
+        "coord": "38.4146°N 121.3850°W",
+        "categorization": "Layers",
+        "platform": "ArcGis",
+        "categories": [
+            "Base Layers",
+            "Building Footprints",
+            "City Limits",
+            "City Council Boundary",
+            "Fire Stations",
+            "CSD Parks",
+            "EGUSD Schools",
+            "Parking Lot Centerlines",
+            "Public Amenity Footprints",
+            "Land Layers",
+            "General Plan",
+            "Home Owners Associations",
+            "Neighborhoods Associations",
+            "Parcels",
+            "Sphere of Influence",
+            "Southeast Planning Area",
+            "Zoning",
+            "Drainage Layers",
+            "Creeks and Channels",
+            "Detention Basins",
+            "Drainage Features",
+            "Transportation Layers",
+            "eTran Bus Routes",
+            "eTran Bus Stops",
+            "Bikeways",
+            "Park and Ride Locations",
+            "Rail Roads",
+            "Street Centerlines",
+            "Curb Ramps",
+            "Sidewalks",
+            "Infrastructure / Asset Layers",
+            "Street Lights",
+            "Landscape Areas",
+            "Data Gateway Layers",
+            "Building Permits",
+            "Business Licenses",
+            "Capital Improvement Projects"
+        ]
+    }
+]
