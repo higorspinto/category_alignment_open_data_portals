@@ -1,1 +1,1 @@
-# urban-data-categories
+# category_alignment_open_data_portals
