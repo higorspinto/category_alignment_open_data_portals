@@ -5,114 +5,24 @@ Created on Sat Jan  5 15:29:11 2019
 @author: HG
 """
 
-#import nltk
-#nltk.download('stopwords')
-
+import os
 import json
-from portal import Portal
-
-def readPortalsFromJsonFile(portalsFile, platform=None):
-        
-    lstPortals = []
-    with open(portalsFile, 'r') as json_file:  
-        data = json.load(json_file)
-        for p in data:
-            portal = Portal()
-            portal.setCity(p["city"])
-            portal.setUrl(p["url"])
-            portal.setCoord(p["coord"])
-            portal.setCategorization(p["categorization"])
-            portal.setPlatform(p["platform"])
-            portal.setCategories(p['categories'])
-            lstPortals.append(portal)
-
-    if platform is None:
-        return lstPortals
-
-    platform_portals = []
-    for portal in lstPortals:
-        if (portal.getPlatform() == platform):
-            platform_portals.append(portal)
-    
-    return platform_portals
-
-def allCategories(lstPortals):
-    
-    lstCategories = []
-    
-    for portal in lstPortals:
-        categories = portal.getCategories()
-        for category in categories:
-            lstCategories.append(category)
-        
-    return lstCategories
-        
-from nltk.corpus import stopwords
-from nltk.tokenize import word_tokenize
-
-def tokenizer(lstString):
-        
-    tokens = []
-    for string in lstString:
-            
-        tokenize = word_tokenize(string)
-        for token in tokenize:
-            tokens.append(token)
-        
-    return tokens
-    
-def removeStopWords(tokens, words_to_remove):
-        
-    processed_word_list = []  
-    for word in tokens:
-        word = word.lower()
-        if word not in stopwords.words("english"):
-            if word not in words_to_remove:
-                processed_word_list.append(word)
-                
-    return processed_word_list
-
-from collections import OrderedDict
 import operator 
+from collections import OrderedDict
 
-def frequency_word_count(lstWords):
-    
-    dictWordFreq = {}
-    for word in lstWords:
-        freq = dictWordFreq.get(word)
-        if freq is None:
-            freq = 0
-        freq += 1
-        dictWordFreq.update({word : freq})
-    
-    return OrderedDict(sorted(dictWordFreq.items(),
-                            key = operator.itemgetter(1),
-                            reverse = True))
-    
-def portalsWithCategories(portals):
-    
-    portalsWithCategories = []
-    
-    for portal in portals:
+from nlp import tokenizer, remove_stop_words, count_word_frequency
+from portal import read_portals_from_json_file, all_categories, exclude_portals_without_category
         
-        categories = portal.getCategories()
-        if(len(categories) > 0):
-            portalsWithCategories.append(portal)
-
-    return portalsWithCategories
-    
-def fillDictWordPortals(dictWordFreq, portals):
+def count_portals_for_words(dictWordFreq, portals):
     
     dictWordPortals = {}
        
     for word, freq in dictWordFreq.items():
         
         for portal in portals:
-            
-            categories = portal.getCategories()
-            
-            tokens = tokenizer(categories)
-            words = removeStopWords(tokens, words_to_remove)
+    
+            tokens = tokenizer(portal.categories)
+            words = remove_stop_words(tokens, words_to_remove)
     
             if word in words:
         
@@ -145,10 +55,10 @@ def fillDictPortalsCoverage(dictWordFreq, portals):
         
     dictPortalsCoverage = {}
         
-    dictWordPortals = fillDictWordPortals(dictWordFreq, portals)
+    dictWordPortals = count_portals_for_words(dictWordFreq, portals)
     dictWordPortalsDifference = fillDictWordPortalsDifference(dictWordPortals)
         
-    portalWithCategories = portalsWithCategories(portals)
+    portalWithCategories = exclude_portals_without_category(portals)
     
     somaPerc = 0
     for word, portais in dictWordPortalsDifference.items():
@@ -188,14 +98,14 @@ def fillDictWordCategoryFreq(more_coverage_words, portals, words_to_remove):
         dictFreq = {}
         for portal in portals:
             
-            categories = portal.getCategories()
+            categories = portal.categories
                 
             for category in categories:
                 
                 lst = []
                 lst.append(category)
                 tokens = tokenizer(lst)
-                words = removeStopWords(tokens, words_to_remove)
+                words = remove_stop_words(tokens, words_to_remove)
                 
                 if word in words:
                     freq = dictFreq.get(category)
@@ -258,21 +168,19 @@ def write_categories(dictWordFrequentlyCategories, outputCategoriesFile):
     file.close()
 
 output_dir = "output/"
-
-import os
 if not os.path.exists(output_dir):
     os.makedirs(output_dir)
 
 print("\n")
 
-portalsFile = "../portals.json"
-outputCategoriesFile = output_dir + 'most_coverage_categories.json'
+portals_file = "../portals.json"
+categories_output_file = output_dir + 'most_coverage_categories.json'
 
-lstPortal = readPortalsFromJsonFile(portalsFile)
+portals = read_portals_from_json_file(portals_file)
 
-print("Number of Portals: " + "{0}".format(len(lstPortal)))
+print("Number of Portals: " + "{0}".format(len(portals)))
 
-lstCategories = allCategories(lstPortal)
+lstCategories = all_categories(portals)
 print("Number of Categories: " + "{0}".format(len(lstCategories)))
 
 tokens = tokenizer(lstCategories)
@@ -281,15 +189,15 @@ print("Number of tokens in categories: " + "{0}".format(len(tokens)))
 words_to_remove = ["&","gis","/","kc","fy","foia","geo","city","data","go",
                      "-",",","houston","use","public","department","."]
 
-lstWords = removeStopWords(tokens, words_to_remove)
+words = remove_stop_words(tokens, words_to_remove)
 
-dictWordFreq = frequency_word_count(lstWords)
+dictWordFreq = count_word_frequency(words)
 print("Number of words in categories: " + "{0}".format(len(dictWordFreq)))
 print("\n")
 print(dictWordFreq)
 print("\n")
 
-dictPortalsCoverage = fillDictPortalsCoverage(dictWordFreq, lstPortal)
+dictPortalsCoverage = fillDictPortalsCoverage(dictWordFreq, portals)
 print(dictPortalsCoverage)
 print("\n")
 
@@ -298,7 +206,7 @@ more_coverage_words = more_coverage_words(dictPortalsCoverage, trheshold)
 print(more_coverage_words)
 print("\n")
 
-dictWordCategoryFreq = fillDictWordCategoryFreq(more_coverage_words, lstPortal, words_to_remove)
+dictWordCategoryFreq = fillDictWordCategoryFreq(more_coverage_words, portals, words_to_remove)
 print(dictWordCategoryFreq)
 print("\n")
 
@@ -306,6 +214,4 @@ dictWordFrequentlyCategories = fillDictWordFrequentlyCategories(dictWordCategory
 print(dictWordFrequentlyCategories)
 print("\n")
 
-write_categories(dictWordFrequentlyCategories, outputCategoriesFile)
-
-
+write_categories(dictWordFrequentlyCategories, categories_output_file)
