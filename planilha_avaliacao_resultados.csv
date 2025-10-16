@@ -1,0 +1,37 @@
+pergunta,1,2,3,4,5,6,7,8,9,10,11
+sexo,masculino,masculino,masculino,masculino,masculino,feminino,masculino,masculino,masculino,feminino,feminino
+Concorda,sim,Sim,Sim,Sim,Sim,Sim,Sim,SIM,Sim,Sim,Sim
+Fluência,4,3,3,-,5,3,4,3,3,4,3
+Idade,26,31,27,-,29,32,28,40,32,37,25
+Formação,Superior,Pós-Graduação,Mestrado,-,Superior,Superior,Pós-Graduação,SUPERIOR,Pós-Graduação,Pós-Graduação,Médio
+Curso,Sistemas de Informação,Ciência da Computação,Ciência da Computação,-,Engenharia,Ciencia da Computação,Sistemas de Computação,Análise de Sistemas,Ciência da Computação,Ciência da Computação,-
+City Government,Government,Government,Government,Government,Government,Public Safety,Government,City Services,Government,Government,Government
+Housing & Development,Housing,Property,Housing,Housing,Housing,Property,Housing,Finance,Housing,Housing,Housing
+Administration & Finance,Economy,Economy,Finance,Finance,Finance,Business,Finance,Economic Development,Economy,Finance,Business
+Facilities & Geo. Boundaries,Boundaries,Boundaries,Boundaries,Zoning,Boundaries,City Services,Boundaries,Boundaries,Zoning,Boundaries,Boundaries
+Government Boundaries,Property,Zoning,Boundaries,Boundaries,Government,Government,Boundaries,Boundaries,Boundaries,Government,Government
+Planning & Development,Business,Planning,Planning,Planning,Planning,Economic Development,Planning,Planning,Planning,Planning,Business
+City Infrastructure,Infrastructure,Infrastructure,Infrastructure,Infrastructure,Infrastructure,Parks & Recreation,Infrastructure,City Services,Infrastructure,Infrastructure,Infrastructure
+Energy & Environment,Environment,Environment,Environment,Environment,Infrastructure,Environment,Environment,City Services,Environment,Environment,Infrastructure
+Budget and Finance,Finance,Business,Finance,Finance,Finance,Economy,Finance,Business,Finance,Finance,Business
+Community Development,Economic Development,Community,Community,Economic Development,Community,Community,Community,Community,Community,Community,Education
+Sanitation,Health,Infrastructure,City Services,Health,Infrastructure,Health,City Services,Infrastructure,Infrastructure,Health,Health
+A Livable and Sustainable City,Environment,Health,City Services,Environment,Environment,Infrastructure,Education,Community,Transportation,Community,Infrastructure
+A Safe City,Public Safety,Public Safety,Public Safety,Public Safety,Public Safety,Public Safety,Public Safety,Public Safety,Public Safety,Public Safety,Public Safety
+Service Requests,City Services,Business,-,City Services,City Services,City Services,City Services,Government,City Services,City Services,City Services
+Permitting and Licensing,Economic Development,Police,-,Government,Planning,Boundaries,Government,Government,City Services,City Services,Property
+Flood Hazard,Infrastructure,Zoning,-,Infrastructure,Infrastructure,Planning,City Services,Infrastructure,-,Environment,Infrastructure
+Staff Salaries,Government,Business,Economy,Planning,Community,Finance,Economy,Planning,Finance,Finance,Economic Development
+Auditor,Business,Finance,-,Government,Government,Government,Government,Business,Finance,Government,Finance
+Public Works,Government,Government,Government,City Services,Economic Development,City Services,Government,City Services,-,Infrastructure,Police
+City Management and Ethics,Government,Government,Government,Education,Government,Government,Government,Community,Government,Government,Environment
+Planning Building and Code Enforcement,Economic Development,Property,Planning,Planning,Planning,Planning,Planning,Government,-,Government,Housing
+Map Features,Boundaries,Boundaries,-,Environment,Land Base,Boundaries,Planning,Government,-,Land Base,Zoning
+Culture & Arts,Community,Education,Parks & Recreation,Education,Parks & Recreation,Parks & Recreation,Government,Parks & Recreation,Education,Education,City Services
+Recreation & Culture,Parks & Recreation,Community,Parks & Recreation,Parks & Recreation,Parks & Recreation,Parks & Recreation,Parks & Recreation,Parks & Recreation,Education,Community,Parks & Recreation
+Area Plans,Zoning,Housing,-,Planning,Zoning,Boundaries,Planning,Business,-,Zoning,Planning
+Code Interpretations,Government,Transportation,-,Government,Government,Government,Property,Community,-,Government,Business
+Peer Review,Education,Education,-,Education,Community,Planning,Property,Business,-,Business,Planning
+Scope Statement,Business,Planning,-,Planning,Planning,Planning,Property,Planning,-,Planning,Planning
+"Housing, Land Use, and Blight",Housing,Housing,Housing,Zoning,Housing,Land Base,Land Base,Government,-,Housing,Land Base
+Recreation and Culture,Parks & Recreation,Community,Parks & Recreation,Parks & Recreation,Parks & Recreation,Parks & Recreation,Parks & Recreation,Community,-,Community,Education
